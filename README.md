@@ -57,5 +57,5 @@ Generates arrays of circular objects with a localized Gaussian bump:\
 Clone the repository:\
 \
 ```bash\
-git clone https://github.com/yourusername/your-repo-name.git\
+git clone https://github.com/beechyboy/particle_generators.git\
 cd your-repo-name}
